@@ -1,5 +1,3 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Smolskaia)
-
 # Привет, :wave: меня зовут Анна!
 
 Я Junior Frontend разработчик.
@@ -44,4 +42,4 @@
 
 ![codewars](https://www.codewars.com/users/Idea_Fix/badges/large)
 
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Smolskaia)
