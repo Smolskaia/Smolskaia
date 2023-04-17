@@ -10,11 +10,12 @@
 - Изучаю React
 - Работаю над учебным проектом [mesto](https://smolskaia.github.io/mesto-react/) 
 
-- Связаться со мной можно в [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Smolska1a) или [![linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smolskaya/)
+
+Связаться со мной можно в [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Smolska1a) или [![linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smolskaya/)
 
 ---
 
-### 💻 Технологии:
+### 💻 Технологии и инструменты:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -24,23 +25,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### 🛠 Инструменты:
-
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
 ---
-
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/Idea_Fix/badges/large)
 
 ### ⚙️ GitHub статистика:
 
@@ -54,3 +43,9 @@
     </td>
   </tr>
 </table>
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Idea_Fix/badges/large)
+
+
