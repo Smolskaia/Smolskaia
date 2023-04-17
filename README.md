@@ -2,9 +2,6 @@
 
 # Привет, :wave: меня зовут Анна!
 
-
-### Обо мне:
-
 Я Junior Frontend разработчик.
 - Изучаю React
 - Работаю над учебным проектом [mesto](https://smolskaia.github.io/mesto-react/) 
