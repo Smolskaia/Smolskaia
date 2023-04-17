@@ -1,3 +1,5 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Smolskaia)
+
 # Привет, :wave: меня зовут Анна!
 
 ---
@@ -8,18 +10,9 @@
 - Изучаю React
 - Работаю над учебным проектом [mesto](https://smolskaia.github.io/mesto-react/) 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Smolska1a) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sankova.a.v@gmail.com) 
-
+- Связаться со мной можно в [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Smolska1a) или [![linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smolskaya/)
 
 ---
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/smolskaya/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>  
-  </div>
 
 ### 💻 Технологии:
 
@@ -50,7 +43,7 @@
 ![codewars](https://www.codewars.com/users/Idea_Fix/badges/large)
 
 ### ⚙️ GitHub статистика:
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Smolskaia)
+
 <table>
   <tr>
     <td>
