@@ -1,8 +1,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Smolskaia)
 
-## Привет, :wave: меня зовут Анна!
+# Привет, :wave: меня зовут Анна!
 
----
 
 ### Обо мне:
 
