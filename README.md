@@ -1,8 +1,10 @@
+
 # Привет, :wave: меня зовут Анна!
 
 Я Junior Frontend разработчик.
-- Изучаю React
-- Работаю над учебным проектом [mesto](https://smolskaia.github.io/mesto-react/) 
+- Изучаю React, Node.js
+- Работаю над учебным проектом [mesto](https://smolskaia.github.io/mesto-react/)
+- Готова поработать в команде над вашим проектом.
 
 
 Связаться со мной можно в [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Smolska1a) или [![linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smolskaya/)
@@ -25,7 +27,7 @@
 
 ---
 
-### ⚙️ GitHub статистика:
+<!-- ### ⚙️ GitHub статистика:
 
 <table>
   <tr>
@@ -36,7 +38,7 @@
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Smolskaia&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
-</table>
+</table> -->
 
 ### 💻 Codewars:
 
