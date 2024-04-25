@@ -3,13 +3,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=744FC6&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Anna+Smolskaia" alt="Typing SVG">
   </a>
 <h2 align="center">Frontend Developer</h2>
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" min-width="450px" max-width="450px" width="450px" align="right" alt="codding"/>
+  <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" min-width="400px" max-width="400px" width="450px" align="right" alt="codding"/>
    
 Thanks for stopping by my page! I'm thrilled that you're here.  I'm always open to discussions and feedback, so please feel free to share your thoughts. Thank you for taking the time to explore my profile!
 
 * 🌍  I'm based in Tashkent, Uzbekistan
 <!-- * 🖥️  See my portfolio at [my portfolio website](https://malevichdi2910.github.io/portfolio/) -->
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Smolska1a) или [![linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smolskaya/)
+  
 * 🤝  I'm open to collaborating on interesting projects
 <hr>
 
